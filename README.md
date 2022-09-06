@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis & Machine Learning 
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning
-- 📫 How to reach me https://www.linkedin.com/charlie-rios
+- 📫 How to reach me https://www.linkedin.com/charles-rios
 
 <!---
 CharlesR2/CharlesR2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
